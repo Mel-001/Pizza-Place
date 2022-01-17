@@ -1,4 +1,4 @@
-# Pizza pap!
+# Pizza place!
 [Check it out](https://mel-001.github.io/Pizza-Place/)
 
 
